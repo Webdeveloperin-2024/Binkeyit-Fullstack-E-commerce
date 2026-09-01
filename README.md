@@ -139,8 +139,9 @@ The application is fully responsive and optimized for:
 ### Clone the repository
 
 ```bash
-git clone YOUR_REPOSITORY_URL
-cd YOUR_PROJECT_NAME
+git clone  https://github.com/Webdeveloperin-2024/Binkeyit-Fullstack-E-commerce.git
+
+cd Binkeyit clone website
 ```
 
 ### Install dependencies
