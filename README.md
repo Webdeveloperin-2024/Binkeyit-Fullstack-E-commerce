@@ -143,6 +143,9 @@ git clone  https://github.com/Webdeveloperin-2024/Binkeyit-Fullstack-E-commerce.
 
 cd Binkeyit clone website
 ```
+## Live Demo
+
+🔗 [View Live Demo](https://frontendbinkeyit.vercel.app)
 
 ### Install dependencies
 
